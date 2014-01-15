@@ -15,3 +15,11 @@ C:\Users\Nick\Dropbox\Proftaak A3a\Hijskraan\Hijskraan\obj\x86\Debug\Hijskraan.c
 C:\Users\Nick\Dropbox\Proftaak A3a\Hijskraan\Hijskraan\obj\x86\Debug\Hijskraan.csprojResolveAssemblyReference.cache
 C:\Users\Derp\Dropbox\Proftaak p2\Hijskraan\Hijskraan\obj\x86\Debug\Hijskraan.exe
 C:\Users\Derp\Dropbox\Proftaak p2\Hijskraan\Hijskraan\obj\x86\Debug\Hijskraan.pdb
+D:\Nick Library\Documents\GitHub\hairy-wookie\Hijskraan\obj\x86\Debug\Hijskraan.exe
+D:\Nick Library\Documents\GitHub\hairy-wookie\Hijskraan\obj\x86\Debug\Hijskraan.pdb
+D:\Nick Library\Documents\GitHub\hairy-wookie\Hijskraan\bin\Debug\Hijskraan.exe
+D:\Nick Library\Documents\GitHub\hairy-wookie\Hijskraan\bin\Debug\Hijskraan.pdb
+D:\Nick Library\Documents\GitHub\hairy-wookie\Hijskraan\obj\x86\Debug\Hijskraan.csprojResolveAssemblyReference.cache
+D:\Nick Library\Documents\GitHub\hairy-wookie\Hijskraan\obj\x86\Debug\Hijskraan.Form1.resources
+D:\Nick Library\Documents\GitHub\hairy-wookie\Hijskraan\obj\x86\Debug\Hijskraan.Properties.Resources.resources
+D:\Nick Library\Documents\GitHub\hairy-wookie\Hijskraan\obj\x86\Debug\Hijskraan.csproj.GenerateResource.Cache

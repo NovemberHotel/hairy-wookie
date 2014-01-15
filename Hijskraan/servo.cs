@@ -81,7 +81,7 @@ namespace Hijskraan
                 myThread.Abort();
                 myThread = null;
             }
-            catch { MessageBox.Show("ERROR dispose failure, contact Sander v.d Westerlooooooooo"); Application.Restart(); }
+            catch { MessageBox.Show("ERROR dispose failure, restarting"); Application.Restart(); }
         }
     }//Class
 }//Namespace
